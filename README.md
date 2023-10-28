@@ -1,5 +1,1 @@
 # Command line fusion
-
-
-
-test
