@@ -1,1 +1,1 @@
-# CliFusion
+# Command line fusion
